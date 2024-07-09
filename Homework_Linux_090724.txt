@@ -1,0 +1,10 @@
+   0 touch myfirstbashscript.sh
+   1 chmod +x myfirstbashscript.sh
+   2 ls -la
+   3 vi myfirstbashscript.sh
+   4 ./myfirstbashscript.sh
+   5 vi myfirstbashscript.sh
+   6 ./myfirstbashscript.sh
+   7 vi myfirstbashscript.sh
+   8 ./myfirstbashscript.sh
+   9 history > history.txt
